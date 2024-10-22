@@ -1,0 +1,6 @@
+[submodule "PulsePal"]
+	path = PulsePal
+	url = https://github.com/sanworks/PulsePal.git
+[submodule "Bpod_Gen2"]
+	path = Bpod_Gen2
+	url = https://github.com/HernandoMV/Bpod_Gen2.git
